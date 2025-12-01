@@ -36,7 +36,7 @@ Help freelancers, startups, and small businesses:
 
 ## 🚀 Live Demo
 
-Coming soon!
+<a href="https://revenue-cost-cashflow-planner.streamlit.app/" target="_blank" rel="noopener noreferrer">🚀 Try it here</a>
 
 ---
 
