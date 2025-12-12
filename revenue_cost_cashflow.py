@@ -1283,7 +1283,16 @@ with st.expander("⚖️ Legal & Privacy Information"):
     
     **Modifications**: We reserve the right to modify, suspend, or discontinue the tool, or any portion of these terms, at any time without notice.
     
-    **Governing Law**: These terms are governed by the laws of the jurisdiction in which the service operator is based.
+    **Governing Law & Disputes**: These terms are governed by the laws of the United States and the State of California. Any disputes arising from use of this tool should first be resolved through good faith negotiation. If unresolved, disputes will be settled through binding arbitration rather than in court. You agree to resolve disputes individually and waive the right to participate in class action lawsuits.
+
+    ---
+
+    ### Contact
+
+    **Email:** FlourishingPerspectiveHub [AT] gmail [DOT] com
+
+    For questions about this tool, please contact us at the email above or use the feedback form. 
+
     """)
 
 st.markdown("---")
